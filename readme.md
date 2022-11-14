@@ -30,17 +30,11 @@ This page shows the current list of products (and categories). This lab will ena
 
 ## 1. Pre-requisites
 
-The application will use **separate** **`client`** and **`server`** applications which should be opened in separate VS Code instances when working on this lab.
-
-##### Server-side
-
 Make sure that your Supabase database instance is setup and running
 
 
 
 ![client and server apps](./media/supabase_dash.png)
-
-The client site/ application will fetch its data from the server-side API running on http://localhost:5001
 
 
 
